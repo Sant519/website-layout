@@ -1,0 +1,82 @@
+	
+.div1{
+background-color: gray;
+height: 60px;
+width: 100%;
+float: right;
+}
+
+.div2{
+    background-color: yellow;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+.div3{
+    background-color: green;
+    height: 200px;
+    width: 100%;
+    float:left;
+    }
+
+    .div4{
+        background-color: olivedrab;
+        height: 300px;
+        width: 250px;
+        float: left;
+        margin: 40px;
+        }
+
+        .div5{
+            background-color: orange;
+            height: 300px;
+            width: 250px;
+            float: left;
+            margin: 40px;
+            }
+
+            .div6{
+                background-color: violet;
+                height: 300px;
+                width: 250px;
+                float: left;
+                margin: 40px;
+                }
+
+                .div7{
+                    background-color: pink;
+                    height: 300px;
+                    width: 250px;
+                    float: left;
+                    margin: 40px;
+                    }
+
+                    .div8{
+                        background-color: red;
+                        height: 300px;
+                        width: 100%;
+                        float: left;
+                        }
+
+                        .div9{
+                            background-color: orangered;
+                            height: 200px;
+                            width: 450px;
+                            float: left;
+                            padding: 20px 4px 0px 2px;
+                            margin: 0px 0px;
+                            }
+
+                            .div10{
+                                background-color: royalblue;
+                                height: 200px;
+                                width: 50%;
+                                float: right;
+                                }
+                                .div11{
+                                    background-color: orangered;
+                                    height: 60px;
+                                    width: 250px;
+                                    float: left; 
+                                }
